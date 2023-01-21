@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-from alpha import alp
-alp()
+import string
+print(string.ascii_uppercase)
